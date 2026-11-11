@@ -1,0 +1,9 @@
+name: Tests
+on: [push, pull_request]
+jobs:
+  control-logic:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: g++ -std=c++17 -Wall -Wextra -pedantic tests/controller.test.cpp -o /tmp/controller-test
+      - run: /tmp/controller-test
