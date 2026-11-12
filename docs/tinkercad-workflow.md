@@ -36,4 +36,4 @@ Automating each stage would require input validation, tool permission boundaries
 
 - Integration reference: [netchuu/tinkercad-circuits-mcp](https://github.com/netchuu/tinkercad-circuits-mcp).
 - Tinkercad Circuits is a product of Autodesk.
-- Neither the upstream MCP source nor the Tinkercad platform is represented as an original trustNOpeps product.
+- Neither the upstream MCP source nor the Tinkercad platform is represented as an original haammkaki product.

@@ -1,6 +1,6 @@
 # Mechatronics Lab
 
-Arduino circuit simulations, sensor–actuator experiments, and a documented Tinkercad workflow by [Hamka / trustNOpeps](https://github.com/trustNOpeps).
+Arduino circuit simulations, sensor–actuator experiments, and a documented Tinkercad workflow by [haammkaki](https://github.com/trustNOpeps).
 
 > **Status:** educational virtual-simulation case study and independently reconstructed example sketch. Not a physically validated device or a fully autonomous AI agent.
 
